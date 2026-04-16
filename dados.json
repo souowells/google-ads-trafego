@@ -1,0 +1,1920 @@
+{
+  "atualizado_em": "15/04/2026 21:29",
+  "clientes": [
+    {
+      "id": "4275089163",
+      "nome": "Personalize TMC",
+      "cpl_meta": 300,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Fundo de funil | Etapa 1",
+            "custo": 131.76,
+            "cliques": 3,
+            "impressoes": 36,
+            "ctr": 8.33,
+            "ctr_status": "bom",
+            "cpc": 43.92,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 76.74,
+            "share_topo": 69.77,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Fundo de funil | Etapa 1",
+            "custo": 190.81,
+            "cliques": 4,
+            "impressoes": 54,
+            "ctr": 7.41,
+            "ctr_status": "bom",
+            "cpc": 47.7,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 62.34,
+            "share_topo": 57.14,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Fundo de funil | Etapa 1",
+            "custo": 1000.82,
+            "cliques": 28,
+            "impressoes": 480,
+            "ctr": 5.83,
+            "ctr_status": "ok",
+            "cpc": 35.74,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 41.52,
+            "share_topo": 35.69,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4792292133",
+      "nome": "Funerária MontSerrat",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Pesquisa | Porto Alegre",
+            "custo": 1806.13,
+            "cliques": 76,
+            "impressoes": 1094,
+            "ctr": 6.95,
+            "ctr_status": "ok",
+            "cpc": 23.76,
+            "conversoes": 14,
+            "cpl": 129.01,
+            "share_impressoes": 87.38,
+            "share_topo": 82.07,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Pesquisa | Canoas",
+            "custo": 420.53,
+            "cliques": 27,
+            "impressoes": 369,
+            "ctr": 7.32,
+            "ctr_status": "bom",
+            "cpc": 15.58,
+            "conversoes": 3,
+            "cpl": 140.18,
+            "share_impressoes": 65.14,
+            "share_topo": 56.94,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Pesquisa | Porto Alegre",
+            "custo": 3795.31,
+            "cliques": 144,
+            "impressoes": 2035,
+            "ctr": 7.08,
+            "ctr_status": "bom",
+            "cpc": 26.36,
+            "conversoes": 15,
+            "cpl": 253.02,
+            "share_impressoes": 86.63,
+            "share_topo": 81.29,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Pesquisa | Canoas",
+            "custo": 703.04,
+            "cliques": 40,
+            "impressoes": 566,
+            "ctr": 7.07,
+            "ctr_status": "bom",
+            "cpc": 17.58,
+            "conversoes": 4,
+            "cpl": 175.76,
+            "share_impressoes": 65.69,
+            "share_topo": 58.72,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Pesquisa | Porto Alegre",
+            "custo": 11632.69,
+            "cliques": 470,
+            "impressoes": 6067,
+            "ctr": 7.75,
+            "ctr_status": "bom",
+            "cpc": 24.75,
+            "conversoes": 28,
+            "cpl": 415.45,
+            "share_impressoes": 82.54,
+            "share_topo": 75.58,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Pesquisa | Canoas",
+            "custo": 703.04,
+            "cliques": 40,
+            "impressoes": 566,
+            "ctr": 7.07,
+            "ctr_status": "bom",
+            "cpc": 17.58,
+            "conversoes": 4,
+            "cpl": 175.76,
+            "share_impressoes": 65.69,
+            "share_topo": 58.72,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8469646617",
+      "nome": "Elatech",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Suprimentos",
+            "custo": 416.36,
+            "cliques": 49,
+            "impressoes": 875,
+            "ctr": 5.6,
+            "ctr_status": "ok",
+            "cpc": 8.5,
+            "conversoes": 9,
+            "cpl": 46.26,
+            "share_impressoes": 22.36,
+            "share_topo": 24.34,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Suprimentos",
+            "custo": 772.58,
+            "cliques": 96,
+            "impressoes": 1643,
+            "ctr": 5.84,
+            "ctr_status": "ok",
+            "cpc": 8.05,
+            "conversoes": 17,
+            "cpl": 45.45,
+            "share_impressoes": 22.5,
+            "share_topo": 24.89,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Suprimentos",
+            "custo": 2160.34,
+            "cliques": 279,
+            "impressoes": 5232,
+            "ctr": 5.33,
+            "ctr_status": "ok",
+            "cpc": 7.74,
+            "conversoes": 60,
+            "cpl": 36.01,
+            "share_impressoes": 26.71,
+            "share_topo": 29.21,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5115085209",
+      "nome": "Atacadão dos Colchões",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Colchões #2",
+            "custo": 1011.64,
+            "cliques": 227,
+            "impressoes": 5440,
+            "ctr": 4.17,
+            "ctr_status": "abaixo",
+            "cpc": 4.46,
+            "conversoes": 18,
+            "cpl": 56.2,
+            "share_impressoes": 40.19,
+            "share_topo": 38.85,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Cabeceiras",
+            "custo": 230.55,
+            "cliques": 33,
+            "impressoes": 221,
+            "ctr": 14.93,
+            "ctr_status": "otimo",
+            "cpc": 6.99,
+            "conversoes": 6,
+            "cpl": 38.42,
+            "share_impressoes": 87.31,
+            "share_topo": 82.91,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Campanha PMax tray - Não Remover (1738192011026)",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Colchões #2",
+            "custo": 2007.67,
+            "cliques": 458,
+            "impressoes": 11091,
+            "ctr": 4.13,
+            "ctr_status": "abaixo",
+            "cpc": 4.38,
+            "conversoes": 33,
+            "cpl": 60.84,
+            "share_impressoes": 40.05,
+            "share_topo": 38.73,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Cabeceiras",
+            "custo": 230.55,
+            "cliques": 33,
+            "impressoes": 221,
+            "ctr": 14.93,
+            "ctr_status": "otimo",
+            "cpc": 6.99,
+            "conversoes": 6,
+            "cpl": 38.42,
+            "share_impressoes": 87.31,
+            "share_topo": 82.91,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Campanha PMax tray - Não Remover (1738192011026)",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Colchões #2",
+            "custo": 5446.33,
+            "cliques": 1285,
+            "impressoes": 28903,
+            "ctr": 4.45,
+            "ctr_status": "abaixo",
+            "cpc": 4.24,
+            "conversoes": 131,
+            "cpl": 41.58,
+            "share_impressoes": 36.21,
+            "share_topo": 35.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Cabeceiras",
+            "custo": 230.55,
+            "cliques": 33,
+            "impressoes": 221,
+            "ctr": 14.93,
+            "ctr_status": "otimo",
+            "cpc": 6.99,
+            "conversoes": 6,
+            "cpl": 38.42,
+            "share_impressoes": 87.31,
+            "share_topo": 82.91,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Campanha PMax tray - Não Remover (1738192011026)",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2790987974",
+      "nome": "Solar Kaeté",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [],
+        "30d": [],
+        "90d": []
+      }
+    },
+    {
+      "id": "8558066303",
+      "nome": "Urbez",
+      "cpl_meta": 80,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads | Urbez Retrofit Curitiba",
+            "custo": 155.66,
+            "cliques": 29,
+            "impressoes": 119,
+            "ctr": 24.37,
+            "ctr_status": "otimo",
+            "cpc": 5.37,
+            "conversoes": 2,
+            "cpl": 77.83,
+            "share_impressoes": 91.2,
+            "share_topo": 84.8,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Urbez Projetos",
+            "custo": 118.54,
+            "cliques": 21,
+            "impressoes": 151,
+            "ctr": 13.91,
+            "ctr_status": "otimo",
+            "cpc": 5.64,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 58.43,
+            "share_topo": 53.01,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads | Urbez Retrofit Curitiba",
+            "custo": 273.22,
+            "cliques": 52,
+            "impressoes": 336,
+            "ctr": 15.48,
+            "ctr_status": "otimo",
+            "cpc": 5.25,
+            "conversoes": 2,
+            "cpl": 136.61,
+            "share_impressoes": 66.46,
+            "share_topo": 56.88,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Urbez Projetos",
+            "custo": 252.34,
+            "cliques": 50,
+            "impressoes": 394,
+            "ctr": 12.69,
+            "ctr_status": "otimo",
+            "cpc": 5.05,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 52.9,
+            "share_topo": 45.45,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads | Urbez Projetos",
+            "custo": 979.39,
+            "cliques": 232,
+            "impressoes": 2414,
+            "ctr": 9.61,
+            "ctr_status": "bom",
+            "cpc": 4.22,
+            "conversoes": 16,
+            "cpl": 61.21,
+            "share_impressoes": 45.78,
+            "share_topo": 37.62,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Urbez Retrofit Curitiba",
+            "custo": 648.61,
+            "cliques": 131,
+            "impressoes": 881,
+            "ctr": 14.87,
+            "ctr_status": "otimo",
+            "cpc": 4.95,
+            "conversoes": 6,
+            "cpl": 108.1,
+            "share_impressoes": 77.02,
+            "share_topo": 69.8,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8528359947",
+      "nome": "Ana Fortes Contabilidade",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 9.99,
+            "share_topo": 9.99,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads",
+            "custo": 199.89,
+            "cliques": 20,
+            "impressoes": 531,
+            "ctr": 3.77,
+            "ctr_status": "abaixo",
+            "cpc": 9.99,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 54.7,
+            "share_topo": 41.32,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads",
+            "custo": 604.5,
+            "cliques": 68,
+            "impressoes": 2564,
+            "ctr": 2.65,
+            "ctr_status": "abaixo",
+            "cpc": 8.89,
+            "conversoes": 5,
+            "cpl": 120.9,
+            "share_impressoes": 50.54,
+            "share_topo": 31.48,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1485563715",
+      "nome": "RCP Clínica",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "DEZ25 | Estratégia muro",
+            "custo": 513.58,
+            "cliques": 42,
+            "impressoes": 484,
+            "ctr": 8.68,
+            "ctr_status": "bom",
+            "cpc": 12.23,
+            "conversoes": 13,
+            "cpl": 39.51,
+            "share_impressoes": 82.27,
+            "share_topo": 79.69,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "DEZ25 | Estratégia muro",
+            "custo": 1023.91,
+            "cliques": 85,
+            "impressoes": 1034,
+            "ctr": 8.22,
+            "ctr_status": "bom",
+            "cpc": 12.05,
+            "conversoes": 13,
+            "cpl": 78.76,
+            "share_impressoes": 75.48,
+            "share_topo": 71.99,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "DEZ25 | Estratégia muro",
+            "custo": 4137.65,
+            "cliques": 521,
+            "impressoes": 6879,
+            "ctr": 7.57,
+            "ctr_status": "bom",
+            "cpc": 7.94,
+            "conversoes": 13,
+            "cpl": 318.28,
+            "share_impressoes": 48.94,
+            "share_topo": 46.03,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4912372846",
+      "nome": "Benaron Energia",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads | ABR26",
+            "custo": 178.14,
+            "cliques": 21,
+            "impressoes": 178,
+            "ctr": 11.8,
+            "ctr_status": "otimo",
+            "cpc": 8.48,
+            "conversoes": 2,
+            "cpl": 89.07,
+            "share_impressoes": 88.39,
+            "share_topo": 83.93,
+            "share_status": "ok",
+            "topo_status": "ok"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads | ABR26",
+            "custo": 525.65,
+            "cliques": 56,
+            "impressoes": 485,
+            "ctr": 11.55,
+            "ctr_status": "otimo",
+            "cpc": 9.39,
+            "conversoes": 2,
+            "cpl": 262.83,
+            "share_impressoes": 81.72,
+            "share_topo": 79.22,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads | ABR26",
+            "custo": 989.51,
+            "cliques": 164,
+            "impressoes": 1360,
+            "ctr": 12.06,
+            "ctr_status": "otimo",
+            "cpc": 6.03,
+            "conversoes": 2,
+            "cpl": 494.75,
+            "share_impressoes": 52.07,
+            "share_topo": 46.51,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3835475286",
+      "nome": "Suportes CWB",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads | Primeira fase #2",
+            "custo": 101.15,
+            "cliques": 10,
+            "impressoes": 83,
+            "ctr": 12.05,
+            "ctr_status": "otimo",
+            "cpc": 10.12,
+            "conversoes": 2,
+            "cpl": 50.58,
+            "share_impressoes": 48.28,
+            "share_topo": 44.14,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads | Primeira fase #2",
+            "custo": 535.77,
+            "cliques": 43,
+            "impressoes": 580,
+            "ctr": 7.41,
+            "ctr_status": "bom",
+            "cpc": 12.46,
+            "conversoes": 2,
+            "cpl": 267.89,
+            "share_impressoes": 71.19,
+            "share_topo": 63.71,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads | Primeira fase #2",
+            "custo": 701.64,
+            "cliques": 56,
+            "impressoes": 825,
+            "ctr": 6.79,
+            "ctr_status": "ok",
+            "cpc": 12.53,
+            "conversoes": 2,
+            "cpl": 350.82,
+            "share_impressoes": 67.77,
+            "share_topo": 60.59,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6621179842",
+      "nome": "Mestre da Obra Ponta Grossa",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 215.09,
+            "cliques": 21,
+            "impressoes": 206,
+            "ctr": 10.19,
+            "ctr_status": "otimo",
+            "cpc": 10.24,
+            "conversoes": 12,
+            "cpl": 17.92,
+            "share_impressoes": 83.81,
+            "share_topo": 81.38,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 151.88,
+            "cliques": 10,
+            "impressoes": 69,
+            "ctr": 14.49,
+            "ctr_status": "otimo",
+            "cpc": 15.19,
+            "conversoes": 3,
+            "cpl": 50.63,
+            "share_impressoes": 79.31,
+            "share_topo": 73.56,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 141.27,
+            "cliques": 12,
+            "impressoes": 107,
+            "ctr": 11.21,
+            "ctr_status": "otimo",
+            "cpc": 11.77,
+            "conversoes": 6,
+            "cpl": 23.55,
+            "share_impressoes": 93.04,
+            "share_topo": 93.04,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 33.94,
+            "cliques": 3,
+            "impressoes": 21,
+            "ctr": 14.29,
+            "ctr_status": "otimo",
+            "cpc": 11.31,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 80.77,
+            "share_topo": 76.92,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Plataforma elevatória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 3,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 21.43,
+            "share_topo": 21.43,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 9.99,
+            "share_topo": 9.99,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 470.51,
+            "cliques": 50,
+            "impressoes": 428,
+            "ctr": 11.68,
+            "ctr_status": "otimo",
+            "cpc": 9.41,
+            "conversoes": 13,
+            "cpl": 36.19,
+            "share_impressoes": 81.9,
+            "share_topo": 77.14,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 241.45,
+            "cliques": 17,
+            "impressoes": 117,
+            "ctr": 14.53,
+            "ctr_status": "otimo",
+            "cpc": 14.2,
+            "conversoes": 3,
+            "cpl": 80.48,
+            "share_impressoes": 75.64,
+            "share_topo": 69.87,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 222.62,
+            "cliques": 19,
+            "impressoes": 191,
+            "ctr": 9.95,
+            "ctr_status": "bom",
+            "cpc": 11.72,
+            "conversoes": 6,
+            "cpl": 37.1,
+            "share_impressoes": 85.71,
+            "share_topo": 82.59,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 72.5,
+            "cliques": 6,
+            "impressoes": 31,
+            "ctr": 19.35,
+            "ctr_status": "otimo",
+            "cpc": 12.08,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 75.61,
+            "share_topo": 70.73,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Plataforma elevatória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 8,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 20.51,
+            "share_topo": 17.95,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 1,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 25.0,
+            "share_topo": 25.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 764.34,
+            "cliques": 89,
+            "impressoes": 722,
+            "ctr": 12.33,
+            "ctr_status": "otimo",
+            "cpc": 8.59,
+            "conversoes": 13,
+            "cpl": 58.8,
+            "share_impressoes": 79.21,
+            "share_topo": 73.96,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 347.67,
+            "cliques": 31,
+            "impressoes": 280,
+            "ctr": 11.07,
+            "ctr_status": "otimo",
+            "cpc": 11.22,
+            "conversoes": 6,
+            "cpl": 57.95,
+            "share_impressoes": 84.89,
+            "share_topo": 81.57,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 260.58,
+            "cliques": 19,
+            "impressoes": 181,
+            "ctr": 10.5,
+            "ctr_status": "otimo",
+            "cpc": 13.71,
+            "conversoes": 3,
+            "cpl": 86.86,
+            "share_impressoes": 76.15,
+            "share_topo": 70.71,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 87.99,
+            "cliques": 9,
+            "impressoes": 45,
+            "ctr": 20.0,
+            "ctr_status": "otimo",
+            "cpc": 9.78,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 70.31,
+            "share_topo": 65.62,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Plataforma elevatória",
+            "custo": 35.51,
+            "cliques": 3,
+            "impressoes": 24,
+            "ctr": 12.5,
+            "ctr_status": "otimo",
+            "cpc": 11.84,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 35.29,
+            "share_topo": 29.41,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 3.39,
+            "cliques": 1,
+            "impressoes": 4,
+            "ctr": 25.0,
+            "ctr_status": "otimo",
+            "cpc": 3.39,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 57.14,
+            "share_topo": 57.14,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3308366364",
+      "nome": "Mestre da Obra Uruguaiana",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 103.45,
+            "cliques": 12,
+            "impressoes": 55,
+            "ctr": 21.82,
+            "ctr_status": "otimo",
+            "cpc": 8.62,
+            "conversoes": 2,
+            "cpl": 51.73,
+            "share_impressoes": 75.41,
+            "share_topo": 71.67,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 14.59,
+            "cliques": 4,
+            "impressoes": 8,
+            "ctr": 50.0,
+            "ctr_status": "otimo",
+            "cpc": 3.65,
+            "conversoes": 1,
+            "cpl": 14.59,
+            "share_impressoes": 87.5,
+            "share_topo": 87.5,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 9.16,
+            "cliques": 3,
+            "impressoes": 5,
+            "ctr": 60.0,
+            "ctr_status": "otimo",
+            "cpc": 3.05,
+            "conversoes": 1,
+            "cpl": 9.16,
+            "share_impressoes": 80.0,
+            "share_topo": 80.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 1,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 100.0,
+            "share_topo": 100.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Perfurador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Banheiro orgânico",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Escoras",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Gerador de energia",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 2,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 25.0,
+            "share_topo": 12.5,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 123.96,
+            "cliques": 15,
+            "impressoes": 60,
+            "ctr": 25.0,
+            "ctr_status": "otimo",
+            "cpc": 8.26,
+            "conversoes": 4,
+            "cpl": 30.99,
+            "share_impressoes": 76.92,
+            "share_topo": 73.44,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 14.59,
+            "cliques": 4,
+            "impressoes": 9,
+            "ctr": 44.44,
+            "ctr_status": "otimo",
+            "cpc": 3.65,
+            "conversoes": 1,
+            "cpl": 14.59,
+            "share_impressoes": 88.89,
+            "share_topo": 88.89,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 9.16,
+            "cliques": 3,
+            "impressoes": 5,
+            "ctr": 60.0,
+            "ctr_status": "otimo",
+            "cpc": 3.05,
+            "conversoes": 1,
+            "cpl": 9.16,
+            "share_impressoes": 80.0,
+            "share_topo": 80.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 2,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 100.0,
+            "share_topo": 100.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Perfurador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Banheiro orgânico",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 1,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 100.0,
+            "share_topo": 100.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Escoras",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Gerador de energia",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 2,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 22.22,
+            "share_topo": 11.11,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 123.96,
+            "cliques": 15,
+            "impressoes": 60,
+            "ctr": 25.0,
+            "ctr_status": "otimo",
+            "cpc": 8.26,
+            "conversoes": 4,
+            "cpl": 30.99,
+            "share_impressoes": 76.92,
+            "share_topo": 73.44,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 14.59,
+            "cliques": 4,
+            "impressoes": 9,
+            "ctr": 44.44,
+            "ctr_status": "otimo",
+            "cpc": 3.65,
+            "conversoes": 1,
+            "cpl": 14.59,
+            "share_impressoes": 88.89,
+            "share_topo": 88.89,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 9.16,
+            "cliques": 3,
+            "impressoes": 5,
+            "ctr": 60.0,
+            "ctr_status": "otimo",
+            "cpc": 3.05,
+            "conversoes": 1,
+            "cpl": 9.16,
+            "share_impressoes": 80.0,
+            "share_topo": 80.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 2,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 100.0,
+            "share_topo": 100.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Perfurador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Banheiro orgânico",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 1,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 100.0,
+            "share_topo": 100.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Escoras",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Gerador de energia",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 2,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 22.22,
+            "share_topo": 11.11,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1919892666",
+      "nome": "Lixadora Sullivan",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads | MAR26",
+            "custo": 255.35,
+            "cliques": 26,
+            "impressoes": 191,
+            "ctr": 13.61,
+            "ctr_status": "otimo",
+            "cpc": 9.82,
+            "conversoes": 5,
+            "cpl": 51.07,
+            "share_impressoes": 74.03,
+            "share_topo": 69.92,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads | MAR26",
+            "custo": 500.0,
+            "cliques": 53,
+            "impressoes": 326,
+            "ctr": 16.26,
+            "ctr_status": "otimo",
+            "cpc": 9.43,
+            "conversoes": 8,
+            "cpl": 62.5,
+            "share_impressoes": 72.44,
+            "share_topo": 68.3,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads | MAR26",
+            "custo": 500.0,
+            "cliques": 53,
+            "impressoes": 326,
+            "ctr": 16.26,
+            "ctr_status": "otimo",
+            "cpc": 9.43,
+            "conversoes": 8,
+            "cpl": 62.5,
+            "share_impressoes": 72.44,
+            "share_topo": 68.3,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9367744682",
+      "nome": "Mestre da Obra Luís Eduardo Magalhães",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 21.89,
+            "cliques": 3,
+            "impressoes": 67,
+            "ctr": 4.48,
+            "ctr_status": "abaixo",
+            "cpc": 7.3,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 73.68,
+            "share_topo": 68.42,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 5.94,
+            "cliques": 1,
+            "impressoes": 15,
+            "ctr": 6.67,
+            "ctr_status": "ok",
+            "cpc": 5.94,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 81.25,
+            "share_topo": 81.25,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 12,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 80.0,
+            "share_topo": 80.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 21.89,
+            "cliques": 3,
+            "impressoes": 67,
+            "ctr": 4.48,
+            "ctr_status": "abaixo",
+            "cpc": 7.3,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 73.68,
+            "share_topo": 68.42,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 5.94,
+            "cliques": 1,
+            "impressoes": 15,
+            "ctr": 6.67,
+            "ctr_status": "ok",
+            "cpc": 5.94,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 81.25,
+            "share_topo": 81.25,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 12,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 80.0,
+            "share_topo": 80.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 21.89,
+            "cliques": 3,
+            "impressoes": 67,
+            "ctr": 4.48,
+            "ctr_status": "abaixo",
+            "cpc": 7.3,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 73.68,
+            "share_topo": 68.42,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 5.94,
+            "cliques": 1,
+            "impressoes": 15,
+            "ctr": 6.67,
+            "ctr_status": "ok",
+            "cpc": 5.94,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 81.25,
+            "share_topo": 81.25,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Compactador de solo",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 12,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 80.0,
+            "share_topo": 80.0,
+            "share_status": "ok",
+            "topo_status": "ok"
+          },
+          {
+            "nome": "Wells | Leads | Placa vibratória",
+            "custo": 0.0,
+            "cliques": 0,
+            "impressoes": 0,
+            "ctr": 0.0,
+            "ctr_status": "abaixo",
+            "cpc": 0.0,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 0.0,
+            "share_topo": 0.0,
+            "share_status": "abaixo",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4557353009",
+      "nome": "Mestre da Obra São José",
+      "cpl_meta": 50,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 74.78,
+            "cliques": 8,
+            "impressoes": 125,
+            "ctr": 6.4,
+            "ctr_status": "ok",
+            "cpc": 9.35,
+            "conversoes": 1,
+            "cpl": 74.78,
+            "share_impressoes": 72.39,
+            "share_topo": 68.1,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 65.94,
+            "cliques": 8,
+            "impressoes": 43,
+            "ctr": 18.6,
+            "ctr_status": "otimo",
+            "cpc": 8.24,
+            "conversoes": 7,
+            "cpl": 9.42,
+            "share_impressoes": 73.08,
+            "share_topo": 65.38,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 14.73,
+            "cliques": 3,
+            "impressoes": 29,
+            "ctr": 10.34,
+            "ctr_status": "otimo",
+            "cpc": 4.91,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 71.05,
+            "share_topo": 63.16,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 74.78,
+            "cliques": 8,
+            "impressoes": 125,
+            "ctr": 6.4,
+            "ctr_status": "ok",
+            "cpc": 9.35,
+            "conversoes": 1,
+            "cpl": 74.78,
+            "share_impressoes": 72.39,
+            "share_topo": 68.1,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 65.94,
+            "cliques": 8,
+            "impressoes": 43,
+            "ctr": 18.6,
+            "ctr_status": "otimo",
+            "cpc": 8.24,
+            "conversoes": 7,
+            "cpl": 9.42,
+            "share_impressoes": 73.08,
+            "share_topo": 65.38,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 14.73,
+            "cliques": 3,
+            "impressoes": 29,
+            "ctr": 10.34,
+            "ctr_status": "otimo",
+            "cpc": 4.91,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 71.05,
+            "share_topo": 63.16,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Wells | Leads | Geral",
+            "custo": 74.78,
+            "cliques": 8,
+            "impressoes": 125,
+            "ctr": 6.4,
+            "ctr_status": "ok",
+            "cpc": 9.35,
+            "conversoes": 1,
+            "cpl": 74.78,
+            "share_impressoes": 72.39,
+            "share_topo": 68.1,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Andaime",
+            "custo": 65.94,
+            "cliques": 8,
+            "impressoes": 43,
+            "ctr": 18.6,
+            "ctr_status": "otimo",
+            "cpc": 8.24,
+            "conversoes": 7,
+            "cpl": 9.42,
+            "share_impressoes": 73.08,
+            "share_topo": 65.38,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          },
+          {
+            "nome": "Wells | Leads | Betoneira",
+            "custo": 14.73,
+            "cliques": 3,
+            "impressoes": 29,
+            "ctr": 10.34,
+            "ctr_status": "otimo",
+            "cpc": 4.91,
+            "conversoes": 0,
+            "cpl": 0,
+            "share_impressoes": 71.05,
+            "share_topo": 63.16,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8713799533",
+      "nome": "Dona Dulce Bolos",
+      "cpl_meta": 15,
+      "periodos": {
+        "14d": [
+          {
+            "nome": "Primeira fase",
+            "custo": 43.05,
+            "cliques": 19,
+            "impressoes": 288,
+            "ctr": 6.6,
+            "ctr_status": "ok",
+            "cpc": 2.27,
+            "conversoes": 6,
+            "cpl": 7.17,
+            "share_impressoes": 53.61,
+            "share_topo": 38.87,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "30d": [
+          {
+            "nome": "Primeira fase",
+            "custo": 115.09,
+            "cliques": 51,
+            "impressoes": 758,
+            "ctr": 6.73,
+            "ctr_status": "ok",
+            "cpc": 2.26,
+            "conversoes": 6,
+            "cpl": 19.18,
+            "share_impressoes": 50.27,
+            "share_topo": 33.95,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ],
+        "90d": [
+          {
+            "nome": "Primeira fase",
+            "custo": 469.41,
+            "cliques": 192,
+            "impressoes": 3450,
+            "ctr": 5.57,
+            "ctr_status": "ok",
+            "cpc": 2.44,
+            "conversoes": 6,
+            "cpl": 78.23,
+            "share_impressoes": 57.85,
+            "share_topo": 37.72,
+            "share_status": "ok",
+            "topo_status": "abaixo"
+          }
+        ]
+      }
+    }
+  ]
+}
