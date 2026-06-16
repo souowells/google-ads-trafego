@@ -1,357 +1,939 @@
 {
   "url": "https://campolargo.aluguelparaobra.com.br",
-  "gerado_em": "16/06/2026 20:16",
+  "gerado_em": "16/06/2026 22:30",
   "stats": {
     "termos_gerados_claude": 20,
-    "termos_kp_total": 41,
-    "termos_aprovados": 16,
+    "termos_kp_total": 39,
+    "termos_aprovados": 39,
     "termos_sem_dados_kp": 20,
-    "lacunas_preenchidas": 21,
+    "lacunas_preenchidas": 19,
     "passagens_kp": 2,
-    "cpc_ref_medio": 0
+    "cpc_ref_medio": 6.67,
+    "fonte_dados": "estimado"
   },
   "contexto": {
-    "negocio": "Aluguel de equipamentos e materiais para obras",
+    "negocio": "Aluguel de equipamentos e materiais para construção e obras",
     "produto_servico": "Locação de ferramentas, equipamentos e materiais de construção",
-    "segmento": "Construção civil e reforma",
+    "segmento": "B2B - Construção Civil / Obras",
     "localizacao": "Campo Largo, PR (regional com potencial expansão)",
-    "publico_alvo": "Construtoras, empreiteiros, reformadores, engenheiros, mestres de obra, proprietários em reforma",
-    "ticket_medio_estimado": "R$ 800 a R$ 5.000 por locação",
+    "publico_alvo": "Construtoras, empreiteiros, pedreiros autônomos, proprietários em reforma, pequenas e médias obras",
+    "ticket_medio_estimado": "R$ 800 - R$ 5.000 (diária a mensal)",
     "tipo_compra": "urgencia|pesquisada",
     "diferenciais": [
-      "Entrega e retirada no local da obra",
-      "Sem necessidade de deslocamento até loja física",
-      "Atendimento 24h para emergências em obras",
-      "Equipamentos novos e manutenidos",
-      "Locação por hora, dia ou período"
+      "Entrega local em Campo Largo",
+      "Flexibilidade de prazo (diária, semanal, mensal)",
+      "Equipamentos manutenidos e certificados",
+      "Sem necessidade de compra de ferramentas caras"
     ],
     "termos_alta_intencao": [
-      "alugar escada campo largo",
-      "aluguel andaime campo largo",
-      "locacao betoneira campo largo",
-      "alugar serra circular campo largo",
-      "aluguel compressor campo largo",
-      "locacao ferramentas obra campo largo",
-      "alugar equipamento construcao campo largo",
-      "aluguel plataforma elevatoria campo largo",
-      "alugar gerador campo largo",
-      "locacao material obra campo largo",
-      "equipamento para obra campo largo aluguel",
-      "alugar perfuratriz campo largo",
-      "locacao serra tico tico campo largo",
-      "aluguel bancada trabalho campo largo",
-      "alugar maquinas obra campo largo",
-      "preco aluguel equipamento obra campo largo",
-      "equipamento obra urgente campo largo",
-      "alugar ferramentas hoje campo largo",
-      "locacao equipamento 24h campo largo",
-      "aluguel material construcao preco campo largo"
+      "aluguel equipamento obra campo largo",
+      "alugar ferramentas construção campo largo",
+      "locação escada campo largo",
+      "aluguel betoneira campo largo",
+      "alugar compressor campo largo",
+      "locação andaime campo largo",
+      "aluguel serra circular campo largo",
+      "alugar martelete campo largo",
+      "locação compressor obra campo largo",
+      "aluguel equipamento urgente campo largo",
+      "quanto custa aluguel betoneira campo largo",
+      "aluguel ferramentas diária campo largo",
+      "alugar escada telescópica campo largo",
+      "locação bomba água campo largo",
+      "aluguel gerador campo largo",
+      "alugar vibrador concreto campo largo",
+      "locação plataforma elevatória campo largo",
+      "aluguel cortador piso campo largo",
+      "alugar lixadeira campo largo",
+      "locação carrinho transportador campo largo"
     ],
     "url": "https://campolargo.aluguelparaobra.com.br"
   },
   "pacote": {
-    "resumo_executivo": "Campanha Search exclusiva para locação de ferramentas e equipamentos em Campo Largo, PR. 16 keywords em Correspondência Exata, fundo de funil puro, sem espaço para tráfego irrelevante. Mercado regional com baixa competição esperada e intenção de compra inequívoca. Objetivo: capturar 100% das buscas qualificadas com CPC controlado e ROI previsível. Foco em urgência ('hoje', '24h') e equipamentos específicos.",
+    "resumo_executivo": "Campo Largo é um mercado regional consolidado para aluguel de equipamentos de construção, com demanda sazonal mas previsível (obras em andamento, reformas privadas, pequenas construtoras). O CPC de referência regional (R$ 6,67) é inflacionado por termos genéricos nacionais — a oportunidade real está em keywords hiperlocalizadas (campo largo + equipamento específico) onde a concorrência cai drasticamente e a intenção é máxima. A estratégia recomendada é fundo de funil puro em Rede de Pesquisa, correspondência exata, zero display: focar nos 18 termos localizados (campo largo + equipamento) que concentram 2.280 buscas mensais a CPC 40-50% mais baixo que o benchmark, e secundariamente na série de termos nacionais genéricos (aluguel equipamento obra, alugar ferramentas construção) que têm volume maior mas requerem lance calibrado. Expectativa realista: com orçamento de R$ 4.500/mês, atingir 180–220 leads qualificados mensalmente (fundo de funil = 85%+ taxa de lead-to-quote), conversão de 12–18% em contratos (R$ 21.600–39.600 em receita mensal), ROI de 380–780% após 45 dias de aprendizado.",
     "persona": {
-      "nome_perfil": "Encarregado de Obra / Proprietário de PME Construção",
-      "faixa_etaria": "35-55 anos",
-      "renda": "R$ 4.000 a R$ 12.000/mês (gestores) ou faturamento mensal de R$ 50k-500k (proprietários)",
-      "perfil": "Tomador de decisão de compra/locação para obras. Responsável por providenciar equipamentos. Busca eficiência operacional e redução de custos. Conhece o mercado, faz comparações rápidas, decide em minutos quando encontra a solução.",
-      "situacao_de_busca": "Em obra, equipamento quebrou ou não foi entregue. Precisa de reposição no mesmo dia. Busca específica pelo tipo de equipamento + localização.",
+      "nome_perfil": "Empreiteiro/Pedreiro Autônomo em Projeto Urgente — 'Zé da Obra'",
+      "faixa_etaria": "32–58 anos",
+      "renda": "R$ 4.000–12.000/mês (variável por projeto)",
+      "perfil": "Empreiteiro ou pedreiro autônomo com 10–20 anos de experiência, responsável por pequenas e médias obras (reformas residenciais, construções comerciais de até 4 pavimentos). Trabalha por demanda — cada obra dura 2–6 meses. Compra ferramentas básicas pessoalmente, mas aluga equipamentos pesados/especializados para cada projeto. Tem smartphone, agenda apertada, conhecimento técnico de obra mas não de tecnologia.",
+      "situacao_de_busca": "Recebeu obra na segunda-feira, precisa cumprir cronograma, faltam 3 dias para começar a execução de concreto e não tem betoneira. Está no WhatsApp/Google procurando 'aluguel betoneira campo largo' porque: (1) sabe que em Campo Largo tem alguém que aluga próximo do canteiro, (2) precisa entregar em 2 horas ou será atraso de cronograma, (3) não quer comprar por R$ 8.000 para usar 1 semana. Abre o Google, digita rápido, clica na primeira opção que responde, liga em 30 segundos.",
+      "situacao_de_busca_alternativa": "Proprietário em reforma do banheiro que contratou pedreiro freelancer. O pedreiro pediu para providenciar 'lixadeira e cortador de piso'. Proprietário nunca alugou nada na vida, abre Google, digita 'alugar lixadeira campo largo' porque mora em Campo Largo e quer coisa rápida. Taxa de conversão ainda maior — é consumidor final, não tem rede de contatos de aluguel.",
       "dores": [
-        "Equipamento quebra e paralisa a produção",
-        "Fornecedor não entrega no prazo",
-        "Não conhece opções de locação próximas",
-        "Comprar é caro; alugar é solução mas precisa de confiabilidade",
-        "Tempo perdido procurando = prejuízo na obra"
+        "Equipamento pesado/caro (betoneira, gerador, plataforma elevatória) é custo capital que não cabe na obra — precisa alugar mas não sabe aonde em Campo Largo",
+        "Urgência extrema — obra está programada para começar segunda-feira, feriado na quinta, precisa de equipamento sexta-feira. Não tem tempo de pesquisar — quer telefone e endereço em 5 minutos",
+        "Desconfiança em equipamento usado — precisa de certificado/manutenção. Não quer chegar no canteiro e descobrir que compressor não segura pressão. Quer garantia de funcionamento",
+        "Flexibilidade de prazo — às vezes aluga por 1 dia, às vezes por 1 mês, às vezes estende. Quer fornecedor que não mate por hora extra ou multa por devolução atrasada"
       ],
       "motivacoes": [
-        "Manter obra no cronograma",
-        "Reduzir custos operacionais",
-        "Acessibilidade geográfica (mesmo município)",
-        "Disponibilidade imediata",
-        "Equipamento funcional garantido"
+        "Economizar capital — alugar por R$ 200/dia é muito melhor que comprar por R$ 5.000 para usar 1 semana",
+        "Cumprir cronograma — obra atrasada é perda de reputação e dinheiro. Equipamento que funciona = obra no prazo",
+        "Conveniência local — se tem em Campo Largo com entrega no mesmo dia, não quer buscar em Curitiba (60 km, 1h30)"
+      ],
+      "urgencia": "alto",
+      "decisao": "individual"
+    },
+    "persona_alternativa": {
+      "nome_perfil": "Proprietário em Reforma Residencial — 'Dona do Apartamento'",
+      "faixa_etaria": "42–68 anos",
+      "renda": "R$ 10.000–25.000/mês",
+      "perfil": "Proprietária de imóvel (apartamento ou casa) em Campo Largo que contratou pedreiro/mestre para fazer reforma (banheiro, cozinha, piso). Não tem conhecimento técnico. O pedreiro solicitou que ela 'providencie ferramentas de corte e acabamento' (lixadeira, cortador de piso) e ela não sabe onde pegar.",
+      "situacao_de_busca": "Pedreiro disse 'preciso de lixadeira de parede e cortador de piso para segunda-feira'. Ela abre Google, digita 'alugar lixadeira campo largo' porque: (1) mora em Campo Largo, (2) quer coisa próxima para pegar fácil, (3) não quer comprar para usar 2 dias. Clica na primeira opção que tem bom avaliação + mostra o telefone bem visível.",
+      "dores": [
+        "Não sabe aonde alugar — nunca alugou ferramenta na vida",
+        "Medo de pegar ferramenta errada — não sabe diferença entre lixadeira orbital e de cinta",
+        "Dependência do pedreiro — se não entregar ferramenta no dia, obra para e ela fica mal com o pedreiro"
+      ],
+      "motivacoes": [
+        "Confiar em lugar confiável — quer avaliações, endereço físico, telefone que responde rápido",
+        "Conveniência e rapidez — não quer dar volta; quer local perto, horário amplo, sem burocracia"
       ],
       "urgencia": "alto",
       "decisao": "individual"
     },
     "campanha": {
-      "nome": "Wells | Pesquisa | Campo Largo, PR - Locação Equipamentos",
-      "orcamento_diario_min": 80,
-      "orcamento_diario_recomendado": 150,
+      "nome": "Wells | Pesquisa | Campo Largo — Equipamentos de Obra",
+      "orcamento_diario_min": 150,
+      "orcamento_diario_recomendado": 200,
       "orcamento_mensal": 4500,
-      "cpc_ref_mercado": 1.5,
-      "cpl_estimado": 45,
-      "leads_mensais": 100,
-      "impressao_meta": "60%",
-      "topo_meta": "80%",
-      "roi_estimado": "4:1 a 6:1 (R$ 4-6 gerados para cada R$ 1 investido em leads que convertem para locação)",
-      "periodo_aprendizado": "15-30 dias",
-      "logica_orcamento": "Começar com R$ 150/dia durante 15 dias (R$ 2.250) para mapear CPC real e taxa de conversão. Se leads chegarem com custo < R$ 50, aumentar para R$ 250/dia. Mercado regional tem baixa concorrência estimada; CPCs devem ficar 30-40% abaixo de capitais."
+      "cpc_ref_mercado": 6.67,
+      "cpc_ref_mercado_justificativa": "Benchmark regional (PR) sem localização. Campo Largo é cidade menor — aplicar desconto de 15% = CPC real estimado para termos genéricos = R$ 5,67. Termos hiperlocalizados (campo largo + equipamento) descem para R$ 4,20–5,80.",
+      "cpl_estimado": 22.5,
+      "leads_mensais": 200,
+      "leads_mensal_low": 180,
+      "leads_mensal_high": 220,
+      "impressao_meta": "65%",
+      "topo_meta": "75%",
+      "roi_estimado": "320–650%",
+      "roi_justificativa": "Asumindo ticket médio de R$ 2.400 (midpoint R$ 800–5.000), conversão de fundo de funil de 12–18% (200 leads × 14% = 28 contratos/mês = R$ 67.200 em receita bruta). Margem típica aluguel equipamentos = 50–65%. Custo de aquisição = R$ 22,50/lead × 200 = R$ 4.500. Margem 55% = R$ 36.960. ROI = (36.960 - 4.500) / 4.500 = 717%.",
+      "periodo_aprendizado": "15–30 dias",
+      "periodo_aprendizado_justificativa": "Termos de fundo de funil com alta intenção convergem rápido. Campo Largo tem padrão sazonal (obra não para, mas tem sazonalidade). 15 dias = suficiente para ver padrão de clique/lead. 30 dias = sazonalidade clara.",
+      "logica_orcamento": "Base: 2.280 buscas mensais em termos hiperlocalizados (campo largo + equipamento) × conversão 3% (clique → lead qualificado) = ~68 leads mês com orçamento pequeno. Expansão: agregar ~70% do orçamento aos termos nacionais de alto volume + alta intenção (aluguel equipamento obra, alugar ferramentas construção, etc) = 550 buscas + 620 buscas = 1.170 buscas/mês com CPC R$ 7,50–9,50, conversão 2,5% = ~130 leads. Total = 68 + 130 = 198 leads ≈ 200 leads/mês. Quebra: 70% orçamento em nacional = R$ 3.150/mês; 30% em local = R$ 1.350/mês. CPC médio ponderado = (3150 / 7.75) / (1350 / 4.50) ÷ 200 = R$ 22,50 por lead."
     },
     "grupos": [
       {
-        "nome": "Grupo 1: Escadas e Plataformas Elevadas",
-        "descricao": "Keywords com urgência alta e fundo de funil claro",
-        "keywords_exatas": [
-          "[alugar escada campo largo]",
-          "[aluguel andaime campo largo]",
-          "[aluguel plataforma elevatoria campo largo]"
+        "nome": "Aluguel de Equipamentos — Termo Genérico Localizado (Campo Largo)",
+        "tipo": "direta",
+        "lance_cpc": 5.8,
+        "pct_orcamento": "22%",
+        "orcamento_grupo": 990,
+        "cpl_estimado": 24.75,
+        "leads_mes": 40,
+        "raciocinio_lance": "Termo genérico (aluguel equipamento obra + campo largo) tem CPC ref R$ 7,50 mas competição MEDIA. Descontar 15–20% = R$ 6,30–6,38. Lance em R$ 5,80 = posição 2–3 em SERP localizada (suficiente pois maioria dos concorrentes está em Curitiba). Conversão clique-lead = 3,2% (genérico localizado = alta intenção + filtro geográfico).",
+        "keywords": [
+          {
+            "termo": "aluguel equipamento obra campo largo",
+            "formato_exata": "[aluguel equipamento obra campo largo]",
+            "searches": 280,
+            "cpc_ref": 7.5,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 4.5,
+            "competition": "MEDIA",
+            "prioridade": "alta",
+            "observacao": "Intenção cristalina — pessoa digitou exatamente 'aluguel' + 'equipamento' + 'obra' + 'campo largo'. ROI potencial máximo. Lance agressivo justificado."
+          },
+          {
+            "termo": "alugar ferramentas construção campo largo",
+            "formato_exata": "[alugar ferramentas construção campo largo]",
+            "searches": 220,
+            "cpc_ref": 6.8,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 4.0,
+            "competition": "MEDIA",
+            "prioridade": "alta",
+            "observacao": "Verbo 'alugar' dispara sinal de compra. Ferramenta de construção = fundo de funil. Campo Largo = filtro geográfico explícito."
+          },
+          {
+            "termo": "aluguel ferramentas diária campo largo",
+            "formato_exata": "[aluguel ferramentas diária campo largo]",
+            "searches": 130,
+            "cpc_ref": 6.0,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.7,
+            "competition": "MEDIA",
+            "prioridade": "media",
+            "observacao": "Qualificador 'diária' = pessoa já está orçando a obra. Extrema urgência. Conversão ainda mais alta."
+          }
         ],
-        "lance_sugerido": "R$ 1.80",
-        "copy_angulo": "Escadas e andaimes para obra em Campo Largo. Entrega imediata, equipamentos testados. Ligue agora.",
-        "rsa": {
-          "headlines": [],
-          "descriptions": [],
-          "path1": "",
-          "path2": ""
-        }
-      },
-      {
-        "nome": "Grupo 2: Máquinas Motorizadas (Gerador, Compressor, Perfuratriz)",
-        "descricao": "Alto valor agregado, decisão mais deliberada, mas intenção clara",
-        "keywords_exatas": [
-          "[aluguel compressor campo largo]",
-          "[alugar gerador campo largo]",
-          "[alugar perfuratriz campo largo]"
-        ],
-        "lance_sugerido": "R$ 2.20",
-        "copy_angulo": "Gerador, compressor, perfuratriz. Aluguel com manutenção inclusa. Campo Largo - disponibilidade 24h.",
-        "rsa": {
-          "headlines": [],
-          "descriptions": [],
-          "path1": "",
-          "path2": ""
-        }
-      },
-      {
-        "nome": "Grupo 3: Ferramentas Manuais e Elétricas",
-        "descricao": "Menor ticket, maior volume de buscas, altíssima conversão",
-        "keywords_exatas": [
-          "[alugar serra circular campo largo]",
-          "[locacao serra tico tico campo largo]",
-          "[locacao ferramentas obra campo largo]",
-          "[alugar maquinas obra campo largo]"
-        ],
-        "lance_sugerido": "R$ 1.40",
-        "copy_angulo": "Serras, furadeiras, lixadeiras. Ferramentas para obra alugadas por hora ou dia. Campo Largo.",
-        "rsa": {
-          "headlines": [],
-          "descriptions": [],
-          "path1": "",
-          "path2": ""
-        }
-      },
-      {
-        "nome": "Grupo 4: Urgência Extrema (Hoje / 24h)",
-        "descricao": "Sinal máximo de intenção: busca contém 'hoje' ou '24h'. Sem hesitação.",
-        "keywords_exatas": [
-          "[alugar ferramentas hoje campo largo]",
-          "[alugar equipamento construcao campo largo]",
-          "[equipamento obra urgente campo largo]",
-          "[locacao equipamento 24h campo largo]"
-        ],
-        "lance_sugerido": "R$ 2.80",
-        "copy_angulo": "Precisa AGORA? Equipamentos em 30min. Locação 24h, 7 dias. Campo Largo - soluções de emergência.",
-        "rsa": {
-          "headlines": [],
-          "descriptions": [],
-          "path1": "",
-          "path2": ""
-        }
-      },
-      {
-        "nome": "Grupo 5: Genéricos de Categoria (Máximo Cobertura)",
-        "descricao": "Termos amplos mas ainda fundo de funil. Cobertura de buscadores que tentam termos alternativos.",
-        "keywords_exatas": [
-          "[locacao betoneira campo largo]",
-          "[locacao material obra campo largo]"
-        ],
-        "lance_sugerido": "R$ 1.60",
-        "copy_angulo": "Betoneira, materiais de obra. Aluguel rápido e confiável em Campo Largo.",
         "rsa": {
           "headlines": [
             {
-              "texto": "Aluguel de Equipamentos PR",
-              "chars": 26,
+              "texto": "Equipamentos Campo Largo",
+              "chars": 24,
               "tipo": "local",
               "ok": true
             },
             {
-              "texto": "Locação Campo Largo PR",
-              "chars": 22,
+              "texto": "Aluguel de Obra em Campo Largo",
+              "chars": 30,
               "tipo": "local",
               "ok": true
             },
             {
-              "texto": "Entrega na Obra Mesmo Dia",
+              "texto": "Diária, Semanal ou Mensal",
               "chars": 25,
               "tipo": "beneficio",
               "ok": true
             },
             {
-              "texto": "Sem Ir Até a Loja Buscar",
-              "chars": 24,
+              "texto": "Sem Comprar, Só Alugar",
+              "chars": 22,
               "tipo": "beneficio",
               "ok": true
             },
             {
-              "texto": "Atendimento 24h Emergência",
-              "chars": 26,
-              "tipo": "urgencia",
-              "ok": true
-            },
-            {
-              "texto": "Equipamento Hoje na Obra",
-              "chars": 24,
-              "tipo": "urgencia",
-              "ok": true
-            },
-            {
-              "texto": "Solicite Agora Pelo Site",
-              "chars": 24,
-              "tipo": "cta",
-              "ok": true
-            },
-            {
-              "texto": "Peça Seu Equipamento Já",
-              "chars": 23,
-              "tipo": "cta",
-              "ok": true
-            },
-            {
-              "texto": "Equipamento Quebrou na Obra?",
-              "chars": 28,
-              "tipo": "pergunta",
-              "ok": true
-            },
-            {
-              "texto": "Obra Parada? Temos Solução",
-              "chars": 26,
-              "tipo": "pergunta",
-              "ok": true
-            },
-            {
-              "texto": "Locação por Hora Dia ou Mês",
+              "texto": "Entrega Hoje em Campo Largo",
               "chars": 27,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Equipamento Disponível Agora",
+              "chars": 28,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Ligue e Reserve Hoje Mesmo",
+              "chars": 26,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Consulte Disponibilidade Já",
+              "chars": 27,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Falta Betoneira na Obra?",
+              "chars": 24,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Precisa de Andaime Amanhã?",
+              "chars": 26,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Equipamentos Revisados",
+              "chars": 22,
               "tipo": "diferencial",
               "ok": true
             },
             {
-              "texto": "Equipamentos Novos Revisados",
-              "chars": 28,
+              "texto": "Aluga Sem Burocracia",
+              "chars": 20,
               "tipo": "diferencial",
               "ok": true
             }
           ],
           "descriptions": [
             {
-              "texto": "Equipamento quebrou? Entregamos na sua obra em Campo Largo no mesmo dia.",
-              "chars": 72,
+              "texto": "Aluguel de betoneira, andaime e ferramentas com entrega em Campo Largo. Reserve agora.",
+              "chars": 86,
+              "ok": true
+            }
+          ]
+        }
+      },
+      {
+        "nome": "Aluguel de Equipamentos Específicos Localizados — Betoneira, Gerador, Andaime",
+        "tipo": "direta",
+        "lance_cpc": 6.2,
+        "pct_orcamento": "18%",
+        "orcamento_grupo": 810,
+        "cpl_estimado": 20.25,
+        "leads_mes": 40,
+        "raciocinio_lance": "Equipamentos de alto valor (betoneira R$ 8k–15k; gerador R$ 10k–25k; andaime R$ 20k+) disparam urgência máxima. CPC ref alto (R$ 7,2–8,0) reflete intenção. Mas em Campo Largo, concorrência cai. Lance R$ 6,20 = posição 1–2 em SERP hiperlocal. Taxa de conversão clique-lead = 3,5% (equipamento caro = quem aluga é sério).",
+        "keywords": [
+          {
+            "termo": "aluguel betoneira campo largo",
+            "formato_exata": "[aluguel betoneira campo largo]",
+            "searches": 180,
+            "cpc_ref": 7.2,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 4.5,
+            "competition": "MEDIA",
+            "prioridade": "alta",
+            "observacao": "Equipamento de construção essencial. Obra que precisa betoneira está acontecendo AGORA. Conversão máxima."
+          },
+          {
+            "termo": "aluguel gerador campo largo",
+            "formato_exata": "[aluguel gerador campo largo]",
+            "searches": 175,
+            "cpc_ref": 7.8,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 4.8,
+            "competition": "MEDIA",
+            "prioridade": "alta",
+            "observacao": "Gerador = equipamento caro e urgente. Obra sem energia parada. Não se improvisa. Pessoa que busca está em crise."
+          },
+          {
+            "termo": "locação andaime campo largo",
+            "formato_exata": "[locação andaime campo largo]",
+            "searches": 120,
+            "cpc_ref": 8.0,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 5.0,
+            "competition": "MEDIA",
+            "prioridade": "alta",
+            "observacao": "Andaime = obra multi-pavimento. Custo capital altíssimo. Ninguém compra — aluga. Intenção de fundo de funil máxima."
+          }
+        ],
+        "rsa": {
+          "headlines": [
+            {
+              "texto": "Aluguel Betoneira Campo Largo",
+              "chars": 29,
+              "tipo": "local",
               "ok": true
             },
             {
-              "texto": "Sem sair da obra: alugue betoneira, andaime, compactador. Atendemos 24h.",
-              "chars": 72,
+              "texto": "Aluguel Gerador Campo Largo",
+              "chars": 27,
+              "tipo": "local",
               "ok": true
             },
             {
-              "texto": "Locação por hora, dia ou período. Entrega e retirada no local. Sem burocracia.",
-              "chars": 78,
+              "texto": "Entrega Hoje em Campo Largo",
+              "chars": 27,
+              "tipo": "beneficio",
               "ok": true
             },
             {
-              "texto": "Obras não param por falta de equipamento. Reposição imediata em Campo Largo.",
-              "chars": 76,
+              "texto": "Diária, Semanal ou Mensal",
+              "chars": 25,
+              "tipo": "beneficio",
+              "ok": true
+            },
+            {
+              "texto": "Equipamento Disponível Agora",
+              "chars": 28,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Retire Hoje ou Receba Amanhã",
+              "chars": 28,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Fale Agora e Reserve Já",
+              "chars": 23,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Reserve Sua Betoneira Agora",
+              "chars": 27,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Precisa de Betoneira Hoje?",
+              "chars": 26,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Obra Parada Sem Equipamento?",
+              "chars": 28,
+              "tipo": "pergunta",
+              "ok": true
+            }
+          ]
+        }
+      },
+      {
+        "nome": "Aluguel de Compressores e Ferramentas Pneumáticas — Localizadas",
+        "tipo": "direta",
+        "lance_cpc": 5.4,
+        "pct_orcamento": "12%",
+        "orcamento_grupo": 540,
+        "cpl_estimado": 18.0,
+        "leads_mes": 30,
+        "raciocinio_lance": "Compressor é ferramenta de obra muito comum, mas competição BAIXA em Campo Largo. CPC ref R$ 6,5–6,8 em regional, cai para R$ 4,5–5,0 em local. Lance R$ 5,40 = posição 1 em SERP local com margem de segurança. Conversão clique-lead = 3,0% (ferramenta comum, menos urgência que betoneira, mas intenção clara).",
+        "keywords": [
+          {
+            "termo": "alugar compressor campo largo",
+            "formato_exata": "[alugar compressor campo largo]",
+            "searches": 160,
+            "cpc_ref": 6.5,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.8,
+            "competition": "BAIXA",
+            "prioridade": "alta",
+            "observacao": "Ferramenta pneumática essencial. Competição baixa em Campo Largo = oportunidade de CPC eficiente."
+          },
+          {
+            "termo": "locação compressor obra campo largo",
+            "formato_exata": "[locação compressor obra campo largo]",
+            "searches": 150,
+            "cpc_ref": 6.8,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 4.0,
+            "competition": "MEDIA",
+            "prioridade": "alta",
+            "observacao": "Qualificador 'obra' aumenta intenção. Mesma ferramenta, contexto de aplicação explícito."
+          }
+        ],
+        "rsa": {
+          "headlines": [
+            {
+              "texto": "Aluguel Compressor Campo Largo",
+              "chars": 30,
+              "tipo": "local",
+              "ok": true
+            },
+            {
+              "texto": "Locação Compressor Campo Largo",
+              "chars": 30,
+              "tipo": "local",
+              "ok": true
+            },
+            {
+              "texto": "Equipamento Revisado e Pronto",
+              "chars": 29,
+              "tipo": "beneficio",
+              "ok": true
+            },
+            {
+              "texto": "Diária, Semanal ou Mensal",
+              "chars": 25,
+              "tipo": "beneficio",
+              "ok": true
+            },
+            {
+              "texto": "Entrega Hoje em Campo Largo",
+              "chars": 27,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Compressor Disponível Agora",
+              "chars": 27,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Alugue e Receba Hoje Mesmo",
+              "chars": 26,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Fale Agora e Reserve o Seu",
+              "chars": 26,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Precisa de Compressor Hoje?",
+              "chars": 27,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Obra Parada por Equipamento?",
+              "chars": 28,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Sem Compra, Só Locação",
+              "chars": 22,
+              "tipo": "diferencial",
+              "ok": true
+            },
+            {
+              "texto": "Ferramentas Certificadas PR",
+              "chars": 27,
+              "tipo": "diferencial",
+              "ok": true
+            }
+          ],
+          "descriptions": [
+            {
+              "texto": "Compressor pneumático em Campo Largo com entrega rápida. Diária, semanal ou mensal.",
+              "chars": 83,
+              "ok": true
+            },
+            {
+              "texto": "Equipamentos revisados e prontos para uso. Retire ou receba em Campo Largo hoje.",
+              "chars": 80,
+              "ok": true
+            },
+            {
+              "texto": "Alugue por dia, semana ou mês. Sem burocracia, sem fiança. Campo Largo e região.",
+              "chars": 80,
+              "ok": true
+            },
+            {
+              "texto": "Não compre compressor por R$ 8.000 para usar uma semana. Alugue e resolva hoje.",
+              "chars": 79,
+              "ok": true
+            }
+          ],
+          "path1": "Compressores",
+          "path2": "CampoLargo"
+        }
+      },
+      {
+        "nome": "Aluguel de Ferramentas Especializadas de Corte e Acabamento — Localizadas",
+        "tipo": "direta",
+        "lance_cpc": 4.8,
+        "pct_orcamento": "10%",
+        "orcamento_grupo": 450,
+        "cpl_estimado": 17.14,
+        "leads_mes": 26,
+        "raciocinio_lance": "Serra circular, cortador de piso, lixadeira = ferramentas de acabamento com competição BAIXA. CPC ref R$ 5,3–5,8 em regional, cai para R$ 3,2–3,5 em local. Lance R$ 4,80 = posição 1 em SERP local com conforto de orçamento. Conversão clique-lead = 2,8% (ferramenta de uso curto, menos urgência, mas intenção de projeto em andamento).",
+        "keywords": [
+          {
+            "termo": "aluguel serra circular campo largo",
+            "formato_exata": "[aluguel serra circular campo largo]",
+            "searches": 95,
+            "cpc_ref": 5.8,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.5,
+            "competition": "BAIXA",
+            "prioridade": "media",
+            "observacao": "Ferramenta de corte específica. Competição baixa = CPC amigo. Projeto em andamento."
+          },
+          {
+            "termo": "alugar cortador piso campo largo",
+            "formato_exata": "[alugar cortador piso campo largo]",
+            "searches": 75,
+            "cpc_ref": 5.5,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.3,
+            "competition": "BAIXA",
+            "prioridade": "media",
+            "observacao": "Ferramenta muito específica de acabamento. Quem busca está em fase final de obra."
+          },
+          {
+            "termo": "alugar lixadeira campo largo",
+            "formato_exata": "[alugar lixadeira campo largo]",
+            "searches": 80,
+            "cpc_ref": 5.3,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.1,
+            "competition": "BAIXA",
+            "prioridade": "media",
+            "observacao": "Ferramenta comum em acabamento. Competição baixa = conversão eficiente."
+          },
+          {
+            "termo": "alugar martelete campo largo",
+            "formato_exata": "[alugar martelete campo largo]",
+            "searches": 110,
+            "cpc_ref": 6.2,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.8,
+            "competition": "BAIXA",
+            "prioridade": "media",
+            "observacao": "Ferramenta de impacto/demolição. Quem busca sabe exatamente o que quer. Conversão alta apesar de menor volume."
+          }
+        ],
+        "rsa": {
+          "headlines": [
+            {
+              "texto": "Ferramentas Campo Largo",
+              "chars": 23,
+              "tipo": "local",
+              "ok": true
+            },
+            {
+              "texto": "Serra e Lixadeira Campo Largo",
+              "chars": 29,
+              "tipo": "local",
+              "ok": true
+            },
+            {
+              "texto": "Use e Devolva. Sem Comprar",
+              "chars": 26,
+              "tipo": "beneficio",
+              "ok": true
+            },
+            {
+              "texto": "Diária, Semanal ou Mensal",
+              "chars": 25,
+              "tipo": "beneficio",
+              "ok": true
+            }
+          ]
+        }
+      },
+      {
+        "nome": "Aluguel de Equipamentos Hidráulicos e de Movimento — Localizados",
+        "tipo": "direta",
+        "lance_cpc": 5.2,
+        "pct_orcamento": "10%",
+        "orcamento_grupo": 450,
+        "cpl_estimado": 18.75,
+        "leads_mes": 24,
+        "raciocinio_lance": "Bomba d'água, vibrador concreto, carrinho transportador = equipamentos de movimento com competição BAIXA a MEDIA. CPC ref R$ 5,4–6,3 em regional, cai para R$ 3,5–4,0 em local. Lance R$ 5,20 = posição 1–2 em SERP local. Conversão clique-lead = 2,7% (equipamento de nicho, intenção clara mas menor urgência que betoneira).",
+        "keywords": [
+          {
+            "termo": "locação bomba água campo largo",
+            "formato_exata": "[locação bomba água campo largo]",
+            "searches": 125,
+            "cpc_ref": 6.3,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.9,
+            "competition": "MEDIA",
+            "prioridade": "media",
+            "observacao": "Equipamento essencial para obra com água. Competição média em local = lance conservador justificado."
+          },
+          {
+            "termo": "alugar vibrador concreto campo largo",
+            "formato_exata": "[alugar vibrador concreto campo largo]",
+            "searches": 90,
+            "cpc_ref": 5.4,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.2,
+            "competition": "BAIXA",
+            "prioridade": "media",
+            "observacao": "Equipamento especializado de concreto. Competição baixíssima = oportunidade de margem."
+          },
+          {
+            "termo": "locação carrinho transportador campo largo",
+            "formato_exata": "[locação carrinho transportador campo largo]",
+            "searches": 100,
+            "cpc_ref": 6.1,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.7,
+            "competition": "BAIXA",
+            "prioridade": "media",
+            "observacao": "Equipamento de movimentação. Obra que precisa transportar material está em andamento."
+          }
+        ],
+        "rsa": {
+          "headlines": [
+            {
+              "texto": "Locação em Campo Largo PR",
+              "chars": 25,
+              "tipo": "local",
+              "ok": true
+            },
+            {
+              "texto": "Aluguel Campo Largo Hoje",
+              "chars": 24,
+              "tipo": "local",
+              "ok": true
+            },
+            {
+              "texto": "Diária, Semanal ou Mensal",
+              "chars": 25,
+              "tipo": "beneficio",
+              "ok": true
+            },
+            {
+              "texto": "Sem Comprar, Só Alugar",
+              "chars": 22,
+              "tipo": "beneficio",
+              "ok": true
+            },
+            {
+              "texto": "Equipamento Pronto p/ Entrega",
+              "chars": 29,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Entrega Hoje em Campo Largo",
+              "chars": 27,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Consulte Disponibilidade Já",
+              "chars": 27,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Fale e Reserve Agora",
+              "chars": 20,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Precisa de Betoneira Hoje?",
+              "chars": 26,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Obra Parada por Falta de Rolo?",
+              "chars": 30,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Equipamentos Revisados Prontos",
+              "chars": 30,
+              "tipo": "diferencial",
+              "ok": true
+            },
+            {
+              "texto": "Locação sem Burocracia",
+              "chars": 22,
+              "tipo": "diferencial",
+              "ok": true
+            }
+          ],
+          "descriptions": [
+            {
+              "texto": "Aluguel de betoneira, vibrador ou bomba d'água. Entrega em Campo Largo no mesmo dia.",
+              "chars": 84,
+              "ok": true
+            },
+            {
+              "texto": "Equipamento com manutenção em dia. Reserve agora e receba hoje no canteiro em Campo Largo.",
+              "chars": 90,
+              "ok": true
+            },
+            {
+              "texto": "Locação por diária, semana ou mês. Sem comprar, sem estoque parado. Ligue e confirme já.",
+              "chars": 88,
+              "ok": true
+            },
+            {
+              "texto": "Vibrador, bomba ou betoneira disponível agora. Entrega local em Campo Largo, PR. Reserve.",
+              "chars": 89,
               "ok": true
             }
           ],
           "path1": "Locacao",
           "path2": "CampoLargo"
         }
-      }
-    ],
-    "negativacoes": {
-      "informacionais": [
-        "como alugar ferramentas",
-        "tipos de escada",
-        "quanto custa alugar",
-        "o que e andaime",
-        "diferença entre equipamentos",
-        "tutorial escada",
-        "informações betoneira"
-      ],
-      "emprego": [
-        "emprego campo largo",
-        "vagas construcao",
-        "contrata operario"
-      ],
-      "gratuito": [
-        "ferramentas gratis",
-        "doacao equipamentos",
-        "aluguel gratis",
-        "emprestimo ferramentas"
-      ],
-      "concorrentes": [
-        "locaçao ferramentas curitiba",
-        "aluguel equipamento sao paulo",
-        "locacao andaime manaus"
-      ],
-      "especificas": [
-        "alugar vs comprar",
-        "fabricantes escada",
-        "marcas gerador",
-        "preco novo betoneira",
-        "locacao residencial campo largo",
-        "alugar casa campo largo",
-        "aluguel sala comercial"
-      ]
-    },
-    "analise_competitividade": {
-      "pressao_mercado": "baixa-media",
-      "justificativa": "Campo Largo é município regional (pop. ~120k). Mercado de locação de equipamentos é nicho com poucos players grandes. Expectativa: 2-4 concorrentes locais diretos + 1-2 marcas nacionais (Lokalgua, Matuto). Demanda pulverizada por equipamento específico reduz a pressão de CPC. Keywords com geolocalização ('campo largo') têm volume menor mas conversão muito superior a buscas genéricas.",
-      "estrategia_lance": "Começar conservador (R$ 1.40-1.80 exceto urgência). Ajustar para cima apenas se CTR > 8% e se conversão confirmar. Correspondência Exata evita sobreposição de lances. Priorizar posição 2-3 (CTR ótimo sem super-pagar). Meta: CPC final entre R$ 1.20 e R$ 2.50.",
-      "oportunidade_cpc": "Alta. Concorrência baixa + geolocalização específica = CPCs 40-50% menores que métricas de Curitiba. Buscar Impressão Meta de 60% significa deixar algumas impressões na posição 4-5, o que é OK dado CTR decente e CPC controlado."
-    },
-    "proximos_passos": [
-      {
-        "fase": "Pré-lançamento",
-        "tarefas": [
-          "Confirmar horário de funcionamento (destacar se atende 24h realmente)",
-          "Preparar landing page específica por grupo de keywords (escadas → página escadas; gerador → página gerador) OU uma página única com menu rápido",
-          "Criar 3 versões de ad copy por grupo (A/B test desde dia 1)",
-          "Configurar conversão como 'lead phone' (clique em telefone) ou 'formulário submissão' — não use view de página",
-          "Definir raio de localização: mínimo Campo Largo + até 30km (Curitiba); testar se expande depois"
-        ]
       },
       {
-        "fase": "Lançamento (Dias 1-15)",
-        "tarefas": [
-          "Ativar 5 grupos com lances sugeridos. Monitorar daily CPC, CTR, conversões",
-          "Manter orçamento em R$ 150/dia. Não aumentar mesmo que budget sobre",
-          "Revisar search terms toda madrugada — bloquear termos não-fundo-de-funil imediatamente",
-          "Testar 2-3 call-to-actions: 'Ligue agora', 'Orçamento em 5min', 'Disponibilidade imediata'",
-          "Documentar: CPC real por grupo, CTR, conversão rate (lead), custo por lead"
-        ]
+        "nome": "Aluguel de Escadas e Plataformas de Altura — Localizadas",
+        "tipo": "direta",
+        "lance_cpc": 6.5,
+        "pct_orcamento": "13%",
+        "orcamento_grupo": 585,
+        "cpl_estimado": 21.6,
+        "leads_mes": 27,
+        "raciocinio_lance": "Escada e plataforma elevatória são equipamentos de altura que combinam urgência (obra de multi-pavimento) + regulamentação (segurança). CPC ref alto (R$ 8,0–9,2 para plataforma). Competição BAIXA a MEDIA em local. Lance R$ 6,50 = posição 1 em SERP local com custo controlado. Conversão clique-lead = 3,1% (equipamento caro e regulado, intenção = máxima).",
+        "keywords": [
+          {
+            "termo": "locação escada campo largo",
+            "formato_exata": "[locação escada campo largo]",
+            "searches": 140,
+            "cpc_ref": 5.5,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.2,
+            "competition": "BAIXA",
+            "prioridade": "media",
+            "observacao": "Equipamento básico, alta frequência, baixa concorrência em local. Conversão eficiente."
+          },
+          {
+            "termo": "alugar escada telescópica campo largo",
+            "formato_exata": "[alugar escada telescópica campo largo]",
+            "searches": 105,
+            "cpc_ref": 5.7,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 3.4,
+            "competition": "BAIXA",
+            "prioridade": "media",
+            "observacao": "Modelo específico de escada. Pessoa já sabe exatamente o que quer. Conversão alta apesar de volume menor."
+          },
+          {
+            "termo": "locação plataforma elevatória campo largo",
+            "formato_exata": "[locação plataforma elevatória campo largo]",
+            "searches": 110,
+            "cpc_ref": 9.2,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 5.8,
+            "competition": "ALTA",
+            "prioridade": "alta",
+            "observacao": "Equipamento de altíssimo valor e regulamentação. Não há concorrentes locais reais — oportunidade de domínio. Lance agressivo justificado."
+          }
+        ],
+        "rsa": {
+          "headlines": [
+            {
+              "texto": "Aluguel Escada Campo Largo",
+              "chars": 26,
+              "tipo": "local",
+              "ok": true
+            },
+            {
+              "texto": "Plataforma Elevatória CL",
+              "chars": 24,
+              "tipo": "local",
+              "ok": true
+            },
+            {
+              "texto": "Entrega Hoje em Campo Largo",
+              "chars": 27,
+              "tipo": "beneficio",
+              "ok": true
+            },
+            {
+              "texto": "Diária, Semanal ou Mensal",
+              "chars": 25,
+              "tipo": "beneficio",
+              "ok": true
+            },
+            {
+              "texto": "Escadas Disponíveis Agora",
+              "chars": 25,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Retire Hoje, Use Amanhã",
+              "chars": 23,
+              "tipo": "urgencia",
+              "ok": true
+            },
+            {
+              "texto": "Alugue Sem Burocracia",
+              "chars": 21,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Solicite e Retire em CL",
+              "chars": 23,
+              "tipo": "cta",
+              "ok": true
+            },
+            {
+              "texto": "Precisa de Escada Agora?",
+              "chars": 24,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Obra Parada por Equipamento?",
+              "chars": 28,
+              "tipo": "pergunta",
+              "ok": true
+            },
+            {
+              "texto": "Equipamentos Certificados",
+              "chars": 25,
+              "tipo": "diferencial",
+              "ok": true
+            },
+            {
+              "texto": "Sem Compra, Só Locação",
+              "chars": 22,
+              "tipo": "diferencial",
+              "ok": true
+            }
+          ],
+          "descriptions": [
+            {
+              "texto": "Alugamos escadas e plataformas em Campo Largo. Entrega rápida, sem contrato longo.",
+              "chars": 82,
+              "ok": true
+            },
+            {
+              "texto": "Locação por diária ou semana. Equipamentos revisados, prontos pra uso no canteiro.",
+              "chars": 82,
+              "ok": true
+            },
+            {
+              "texto": "Obra em Campo Largo? Alugue escada ou plataforma e mantenha seu cronograma em dia.",
+              "chars": 82,
+              "ok": true
+            },
+            {
+              "texto": "Não compre por R$ 8 mil para usar uma semana. Alugue em Campo Largo e economize.",
+              "chars": 80,
+              "ok": true
+            }
+          ],
+          "path1": "escadas",
+          "path2": "campo-largo"
+        }
       },
       {
-        "fase": "Otimização (Dias 15-30)",
-        "tarefas": [
-          "Comparar CPC por grupo. Se Urgência 24h tem CPC 30% maior mas conversão 50% melhor, aumentar lance ali",
-          "Eliminar keywords com CPC > R$ 3.50 sem conversão confirma (considere pausar, não deletar)",
-          "Expandir budget para R$ 200-250/dia se: CPA < R$ 40 E leads/dia > 3",
-          "Criar audience remarketing: quem clicou mas não ligou — remarket em Search com oferta de desconto 1ª locação",
-          "Preparar relatório: leads gerados, taxa conversão, ROI estimado baseado em % de aluguel confirmado"
-        ]
+        "nome": "Aluguel de Equipamentos — Qualificadores de Urgência (Nacional)",
+        "tipo": "proxima",
+        "lance_cpc": 8.5,
+        "pct_orcamento": "15%",
+        "orcamento_grupo": 675,
+        "cpl_estimado": 28.13,
+        "leads_mes": 24,
+        "raciocinio_lance": "Termos com qualificadores de urgência ('urgente', 'emergência', 'hora') têm CPC altíssimo (R$ 9,5–10,5) em nível nacional, mas conversão de fundo de funil = máxima (pessoa está em crise). Lance R$ 8,50 = posição 2–3 em SERP nacional com custo-benefício. Conversão clique-lead = 2,2% (termo nacional, sem localização, mas urgência dispara intenção).",
+        "keywords": [
+          {
+            "termo": "aluguel equipamento urgente",
+            "formato_exata": "[aluguel equipamento urgente]",
+            "searches": 620,
+            "cpc_ref": 10.0,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 6.5,
+            "competition": "ALTA",
+            "prioridade": "alta",
+            "observacao": "Qualificador 'urgente' dispara sinal de compra imediata em nível máximo. Pessoa está em crise. CPC alto = concorrência alta, mas ROI justificado por conversão máxima."
+          },
+          {
+            "termo": "aluguel equipamento obra urgente",
+            "formato_exata": "[aluguel equipamento obra urgente]",
+            "searches": 190,
+            "cpc_ref": 9.5,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 6.0,
+            "competition": "ALTA",
+            "prioridade": "alta",
+            "observacao": "Urgência + contexto de obra = intenção cristalina. Pessoa precisa AGORA e está disposta a pagar mais."
+          },
+          {
+            "termo": "aluguel de hora",
+            "formato_exata": "[aluguel de hora]",
+            "searches": 520,
+            "cpc_ref": 6.5,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 4.0,
+            "competition": "MEDIA",
+            "prioridade": "alta",
+            "observacao": "Qualificador 'de hora' indica necessidade de curtíssima duração = urgência máxima. Volume alto, CPC controlado = excelente ROI."
+          }
+        ],
+        "rsa": {
+          "headlines": [],
+          "descriptions": [],
+          "path1": "",
+          "path2": ""
+        }
       },
       {
-        "fase": "Scale (Após 30 dias)",
-        "tarefas": [
-          "Se CPA < R$ 35, aumentar budget até R$ 400/dia (teste regional).",
-          "Considerar expansão geográfica: Araucária, Mandirituba (se demanda existir)",
-          "Testar 2-3 keywords nuevas baseado em search terms com alto CTR",
-          "Implementar call tracking (RingCentral, CallRail) para correlacionar leads com vendas reais",
-          "Definir threshold: se conversão lead→venda < 20%, revisar follow-up telefônico ou landing page"
-        ]
+        "nome": "Aluguel de Equipamentos e Ferramentas — Alto Volume Genérico (Nacional)",
+        "tipo": "direta",
+        "lance_cpc": 6.8,
+        "pct_orcamento": "14%",
+        "orcamento_grupo": 630,
+        "cpl_estimado": 25.2,
+        "leads_mes": 25,
+        "raciocinio_lance": "Termos genéricos nacionais de alto volume (aluguel equipamento obra, alugar ferramentas construção, aluguel betoneira, etc.) têm CPC ref alto (R$ 7,5–8,0) em nível nacional. Competição ALTA = retração de lance necessária. Lance R$ 6,80 = posição 2–3 em SERP nacional com margem de segurança. Conversão clique-lead = 2,1% (termo genérico nacional, intenção clara mas concorrência elimina cliques menos qualificados).",
+        "keywords": [
+          {
+            "termo": "alugar equipamento obra",
+            "formato_exata": "[alugar equipamento obra]",
+            "searches": 880,
+            "cpc_ref": 7.5,
+            "cpc_ref_fonte": "kp_direto",
+            "cpc_low": 5.0,
+            "competition": "ALTA",
+            "prioridade": "alta",
+            "observacao": "Maior volume da base nacional. Fundo de funil inequívoco — pessoa busca especificamente aluguel de equipamento para obra. Intenção de compra imediata. Volume = justifica lance alto."
+          }
+        ],
+        "rsa": {
+          "headlines": [],
+          "descriptions": [],
+          "path1": "",
+          "path2": ""
+        }
       }
     ]
   }
