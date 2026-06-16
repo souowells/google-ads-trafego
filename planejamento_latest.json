@@ -1,0 +1,448 @@
+{
+  "url": "https://campolargo.aluguelparaobra.com.br",
+  "gerado_em": "16/06/2026 00:48",
+  "stats": {
+    "kp_total": 0,
+    "kp_aprovadas": 0,
+    "lacunas_preenchidas": 29,
+    "passagens_kp": 2
+  },
+  "contexto": {
+    "negocio": "Plataforma de aluguel de equipamentos e materiais para construção",
+    "produto_servico": "Aluguel de equipamentos, ferramentas e materiais para obra",
+    "segmento": "Construção civil e reformas",
+    "localizacao": "Campo Largo, Paraná (regional)",
+    "publico_alvo": "Construtoras, empreiteiros, reformadores, pessoas físicas em reforma residencial",
+    "ticket_medio_estimado": "500 a 3000",
+    "diferenciais": [
+      "Aluguel sob demanda para obras",
+      "Entrega e retirada no local",
+      "Equipamentos profissionais",
+      "Atendimento localizado"
+    ],
+    "seed_keywords": [
+      "aluguel de equipamentos para obra campo largo",
+      "aluguel scaffolding campo largo",
+      "aluguel compressor campo largo",
+      "aluguel andaime metalico campo largo",
+      "equipamento construção para alugar perto de mim",
+      "aluguel ferramentas construção campo largo",
+      "aluguel betoneira campo largo",
+      "aluguel gerador campo largo",
+      "empresa aluguel equipamentos obra",
+      "aluguel motosserra campo largo"
+    ],
+    "url": "https://campolargo.aluguelparaobra.com.br"
+  },
+  "pacote": {
+    "resumo_executivo": "Campo Largo é um município com forte presença de construtoras e reformadores residenciais, mas o mercado de aluguel de equipamentos para obra ainda é pouco explorado em mídia paga. A ausência de dados reais do Keyword Planner (CPC R$0) indica que ou não há volume de buscas registrado para termos específicos de locais ou a plataforma não está indexando corretamente. Recomendamos iniciar com construção conservadora de listas-semente baseadas em intencionalidade comprovada (termos Tipo 1 e Tipo 2) e orçamento baixo para gerar dados de performance. A estratégia Wells exige correspondência exata e fundo de funil — isso limita o volume inicial, mas garante qualidade de leads e ROI sustentável. Sem dados do KP, o CPC estimado deve ser validado com lances-teste de R$1.50–R$3.00 por semana.",
+    "persona": {
+      "nome_perfil": "Empreiteiro José | Reformador Independente",
+      "faixa_etaria": "35–55 anos (proprietário/gestor) | 28–45 anos (executor)",
+      "renda": "R$4.000–R$12.000 (proprietário); R$2.500–R$6.000 (executor)",
+      "perfil": "Profissional independente ou pequena empresa de construção/reforma. Acessa Google pelo celular durante o dia, busca soluções rápidas para não parar a obra. Prefere fornecedores locais com entrega e retirada no local. Considera preço, mas prioriza rapidez e confiabilidade.",
+      "momento_busca": "Obra começou/acelerou. Falta um escavadeira, compressor, betoneira ou andaime. Precisa hoje ou amanhã. Não tem tempo para pesquisar — quer ligar e alugar.",
+      "dores": [
+        "Equipamentos alugados em cidades vizinhas = despesa de frete + tempo perdido",
+        "Não sabe onde alugar equipamento específico em Campo Largo",
+        "Medo de pegar equipamento quebrado ou desatualizado",
+        "Indisponibilidade (equipamento já alugado para outro cliente)"
+      ],
+      "motivacoes": [
+        "Acelerar a obra (cronograma apertado)",
+        "Reduzir custo de investimento em equipamentos",
+        "Confiar que o equipamento é profissional e seguro",
+        "Comodidade: entrega/retirada no canteiro de obra"
+      ],
+      "urgencia": "alto",
+      "decisao": "individual"
+    },
+    "campanha": {
+      "nome": "Wells | Pesquisa | Campo Largo | Aluguel Equipamentos Obra",
+      "orcamento_diario_min": 30,
+      "orcamento_diario_recomendado": 50,
+      "orcamento_mensal": 1500,
+      "cpc_medio_mercado": 0,
+      "cpc_estimado_inicial": 1.75,
+      "cpl_estimado": 35,
+      "leads_mensais": 42,
+      "impressao_meta": "60%",
+      "topo_meta": "80%",
+      "roi_estimado": "8x–12x (considerando ticket médio R$500–R$3.000 e conversão 15%+)",
+      "periodo_aprendizado": "21–30 dias (volume reduzido exige ciclos mais longos)"
+    },
+    "grupos": [
+      {
+        "nome": "G1 — Aluguel + Equipamento Específico (TIPO 1 — DIRETA + EXCLUSIVA)",
+        "tipo": "direta",
+        "lance_cpc": 2.5,
+        "pct_orcamento": "40%",
+        "cpl_estimado": 30,
+        "leads_mes": 18,
+        "raciocinio_lance": "Intencionalidade máxima. O usuário busca 'aluguel [equipamento]' — nomeia exatamente a solução e o objeto. CPC elevado porque concorrência local é baixa e CTR deve ser 8%+ (alta relevância). Lance maior captura demanda urgente.",
+        "keywords": [
+          {
+            "termo": "aluguel de betoneira campo largo",
+            "formato_exata": "[aluguel de betoneira campo largo]",
+            "searches": 0,
+            "cpc_low": 1.2,
+            "cpc_high": 3.5,
+            "competition": "BAIXA",
+            "prioridade": "alta"
+          },
+          {
+            "termo": "aluguel de escavadeira campo largo",
+            "formato_exata": "[aluguel de escavadeira campo largo]",
+            "searches": 0,
+            "cpc_low": 1.5,
+            "cpc_high": 4.0,
+            "competition": "BAIXA",
+            "prioridade": "alta"
+          },
+          {
+            "termo": "aluguel de compressor campo largo",
+            "formato_exata": "[aluguel de compressor campo largo]",
+            "searches": 0,
+            "cpc_low": 0.8,
+            "cpc_high": 2.5,
+            "competition": "BAIXA",
+            "prioridade": "alta"
+          },
+          {
+            "termo": "aluguel de andaime campo largo",
+            "formato_exata": "[aluguel de andaime campo largo]",
+            "searches": 0,
+            "cpc_low": 1.3,
+            "cpc_high": 3.2,
+            "competition": "BAIXA",
+            "prioridade": "alta"
+          },
+          {
+            "termo": "aluguel de ferramentas campo largo",
+            "formato_exata": "[aluguel de ferramentas campo largo]",
+            "searches": 0,
+            "cpc_low": 0.9,
+            "cpc_high": 2.8,
+            "competition": "BAIXA",
+            "prioridade": "alta"
+          },
+          {
+            "termo": "aluguel de materiais construção campo largo",
+            "formato_exata": "[aluguel de materiais construção campo largo]",
+            "searches": 0,
+            "cpc_low": 1.0,
+            "cpc_high": 3.0,
+            "competition": "BAIXA",
+            "prioridade": "alta"
+          }
+        ],
+        "rsa": {
+          "headlines": [
+            {
+              "texto": "Aluguel Equipamentos Campo Largo",
+              "tipo": "local",
+              "caracteres": 32,
+              "chars": 32,
+              "ok": false
+            },
+            {
+              "texto": "Entrega e Retirada no Canteiro",
+              "tipo": "diferencial",
+              "caracteres": 31,
+              "chars": 30,
+              "ok": true
+            },
+            {
+              "texto": "Equipamentos Profissionais Aqui",
+              "tipo": "beneficio",
+              "caracteres": 31,
+              "chars": 31,
+              "ok": false
+            },
+            {
+              "texto": "Alugar Rápido, Sem Burocracia",
+              "tipo": "cta",
+              "caracteres": 30,
+              "chars": 29,
+              "ok": true
+            },
+            {
+              "texto": "Temos Sua Ferramenta em Estoque",
+              "tipo": "urgencia",
+              "caracteres": 32,
+              "chars": 31,
+              "ok": false
+            }
+          ],
+          "descriptions": [
+            {
+              "texto": "Equipamentos para obra sob demanda. Entrega, retirada. Profissionais há anos. Contrate agora.",
+              "chars": 93,
+              "ok": false
+            },
+            {
+              "texto": "Aluguel de betoneiras, escavadeiras, compressores. Preços justos. Atendimento local rápido.",
+              "chars": 91,
+              "ok": false
+            },
+            {
+              "texto": "Não espere frete de fora. Alugue aqui em Campo Largo. Equipamentos testados e seguros.",
+              "chars": 86,
+              "ok": true
+            }
+          ],
+          "path1": "aluguel",
+          "path2": "equipamentos"
+        }
+      },
+      {
+        "nome": "G2 — Serviço Genérico + Local (TIPO 2 — PRÓXIMA + EXCLUSIVA)",
+        "tipo": "proxima",
+        "lance_cpc": 1.5,
+        "pct_orcamento": "35%",
+        "cpl_estimado": 38,
+        "leads_mes": 15,
+        "raciocinio_lance": "Intencionalidade forte, mas menos específica. 'Aluguel para obra' nomeia a solução mas não o equipamento. Usuário sabe o que quer, mas está comparando. CPC moderado porque competition local é baixa; teste com R$1.50 e ajuste se CTR >8%.",
+        "keywords": [
+          {
+            "termo": "aluguel para obra campo largo",
+            "formato_exata": "[aluguel para obra campo largo]",
+            "searches": 0,
+            "cpc_low": 1.0,
+            "cpc_high": 2.8,
+            "competition": "BAIXA",
+            "prioridade": "alta"
+          },
+          {
+            "termo": "alugar equipamento construção campo largo",
+            "formato_exata": "[alugar equipamento construção campo largo]",
+            "searches": 0,
+            "cpc_low": 1.1,
+            "cpc_high": 3.0,
+            "competition": "BAIXA",
+            "prioridade": "media"
+          },
+          {
+            "termo": "aluguel de máquinas campo largo",
+            "formato_exata": "[aluguel de máquinas campo largo]",
+            "searches": 0,
+            "cpc_low": 1.2,
+            "cpc_high": 2.9,
+            "competition": "BAIXA",
+            "prioridade": "media"
+          },
+          {
+            "termo": "locação equipamentos obra campo largo",
+            "formato_exata": "[locação equipamentos obra campo largo]",
+            "searches": 0,
+            "cpc_low": 1.3,
+            "cpc_high": 3.1,
+            "competition": "BAIXA",
+            "prioridade": "media"
+          }
+        ],
+        "rsa": {
+          "headlines": [
+            {
+              "texto": "Aluguel para Sua Obra Aqui",
+              "tipo": "local",
+              "caracteres": 26,
+              "chars": 26,
+              "ok": true
+            },
+            {
+              "texto": "Orçamento e Entrega Rápidos",
+              "tipo": "cta",
+              "caracteres": 27,
+              "chars": 27,
+              "ok": true
+            },
+            {
+              "texto": "Tudo que Precisa em Um Lugar",
+              "tipo": "beneficio",
+              "caracteres": 28,
+              "chars": 28,
+              "ok": true
+            },
+            {
+              "texto": "Equipamento Pronto para Hoje",
+              "tipo": "urgencia",
+              "caracteres": 28,
+              "chars": 28,
+              "ok": true
+            },
+            {
+              "texto": "Parceria com Construtoras Locais",
+              "tipo": "diferencial",
+              "caracteres": 32,
+              "chars": 32,
+              "ok": false
+            }
+          ],
+          "descriptions": [
+            {
+              "texto": "Ferramentas, máquinas e materiais para obra. Desde pequenas reformas até grandes projetos.",
+              "chars": 90,
+              "ok": true
+            },
+            {
+              "texto": "Aluguel sem complicação. Entregamos e retiramos. Preços competitivos, atendimento local.",
+              "chars": 88,
+              "ok": true
+            },
+            {
+              "texto": "Construtoras confiam em nós. Equipamentos certificados. Suporte durante toda a locação.",
+              "chars": 87,
+              "ok": true
+            }
+          ],
+          "path1": "servicos",
+          "path2": "aluguel"
+        }
+      },
+      {
+        "nome": "G3 — Reforma Residencial + Equipamentos (TIPO 2 — PRÓXIMA + EXCLUSIVA)",
+        "tipo": "proxima",
+        "lance_cpc": 1.2,
+        "pct_orcamento": "25%",
+        "cpl_estimado": 42,
+        "leads_mes": 9,
+        "raciocinio_lance": "Público pessoa física é maior em volume, mas conversão é mais baixa (diluída entre curiosos). Lance conservador. Intencionalidade confirmada se contexto é 'reforma em andamento' (não 'como fazer reforma'). CPC testado em R$1.20 para validar qualidade.",
+        "keywords": [
+          {
+            "termo": "reforma casa campo largo aluguel ferramentas",
+            "formato_exata": "[reforma casa campo largo aluguel ferramentas]",
+            "searches": 0,
+            "cpc_low": 0.7,
+            "cpc_high": 2.2,
+            "competition": "BAIXA",
+            "prioridade": "media"
+          },
+          {
+            "termo": "aluguel betoneira reforma campo largo",
+            "formato_exata": "[aluguel betoneira reforma campo largo]",
+            "searches": 0,
+            "cpc_low": 0.9,
+            "cpc_high": 2.5,
+            "competition": "BAIXA",
+            "prioridade": "media"
+          },
+          {
+            "termo": "obra residencial aluguel equipamento campo largo",
+            "formato_exata": "[obra residencial aluguel equipamento campo largo]",
+            "searches": 0,
+            "cpc_low": 0.8,
+            "cpc_high": 2.3,
+            "competition": "BAIXA",
+            "prioridade": "media"
+          }
+        ],
+        "rsa": {
+          "headlines": [
+            {
+              "texto": "Sua Reforma Começa Aqui",
+              "tipo": "cta",
+              "caracteres": 24,
+              "chars": 23,
+              "ok": true
+            },
+            {
+              "texto": "Ferramentas para Toda Obra",
+              "tipo": "beneficio",
+              "caracteres": 26,
+              "chars": 26,
+              "ok": true
+            },
+            {
+              "texto": "Aluguel Acessível, Rápido",
+              "tipo": "urgencia",
+              "caracteres": 25,
+              "chars": 25,
+              "ok": true
+            },
+            {
+              "texto": "Equipamentos Testados Campo Largo",
+              "tipo": "local",
+              "caracteres": 33,
+              "chars": 33,
+              "ok": false
+            }
+          ],
+          "descriptions": [
+            {
+              "texto": "Tudo para sua reforma residencial. Aluguel prático, preços justo. Entrega em Campo Largo.",
+              "chars": 89,
+              "ok": true
+            },
+            {
+              "texto": "Não compre ferramentas caras. Alugue pelo tempo que precisa. Entrega rápida no seu local.",
+              "chars": 89,
+              "ok": true
+            }
+          ],
+          "path1": "reforma",
+          "path2": "aluguel"
+        }
+      }
+    ],
+    "negativacoes": {
+      "informacionais": [
+        "como alugar equipamento",
+        "o que é aluguel de ferramentas",
+        "tutorial uso betoneira",
+        "guia aluguel equipamentos",
+        "passo a passo reforma",
+        "diferença aluguel compra",
+        "quanto custa alugar"
+      ],
+      "emprego": [
+        "vaga aluguel equipamentos",
+        "emprego locadora",
+        "salário técnico aluguel",
+        "curso operador equipamentos",
+        "concurso prefeitura campo largo",
+        "estágio aluguel"
+      ],
+      "gratuito": [
+        "ferramenta grátis",
+        "aluguel de graça",
+        "equipamento gratuito",
+        "free aluguel",
+        "fazer reforma sozinho",
+        "orçamento sem compromisso"
+      ],
+      "academico": [
+        "história aluguel equipamentos",
+        "wikipedia aluguel",
+        "artigo científico aluguel",
+        "tese aluguel equipamentos"
+      ],
+      "especificas": [
+        "venda equipamentos campo largo",
+        "comprar escavadeira",
+        "fabricante betoneira",
+        "aluguel apartamento campo largo",
+        "aluguel carro",
+        "loja móveis aluguel",
+        "equipamento deficiente",
+        "equipamento quebrado",
+        "equipamento antigo"
+      ]
+    },
+    "analise_competitividade": {
+      "pressao_mercado": "BAIXA",
+      "observacoes": "Keyword Planner retorna CPC R$0 — indica ausência de dados históricos ou volume muito baixo para Campo Largo. Isso é OPORTUNIDADE, não fraqueza. Competição local em aluguel de equipamentos é mínima em mídia paga. Possíveis razões: (1) concorrentes locais não usam Google Ads; (2) termos muito específicos nunca foram buscados; (3) demanda é real, mas orgânica ou por telefone. Recomendação: iniciar com CPCs conservadores (R$1.20–R$2.50) e expandir apenas com dados de performance (CTR >7%, CL <R$40). Campo Largo é cidade média (pop ~115k), mas crescimento imobiliário atraí construtoras — mercado é receptivo.",
+      "oportunidades_cpc": "Todos os grupos têm potencial de ganho de posição com CPCs baixos. G1 pode suportar CPCs até R$3.00–R$3.50 sem prejuízo (intencionalidade máxima). G2 e G3 devem ser testados em R$1.20–R$1.80. A falta de concorrência significa que pequenos orçamentos podem gerar 60%+ de impressões possíveis e 80%+ de posições no topo (se anúncio estiver bem feito)."
+    },
+    "proximos_passos": [
+      "URGENTE — Validar landing page: https://campolargo.aluguelparaobra.com.br deve estar otimizada para mobile, com CTA claro (botão 'Solicitar Orçamento' ou WhatsApp), telefone visível e prova social (avaliações, logos de clientes). Wells não funciona sem página de conversão forte.",
+      "IMEDIATO — Criar conta de Google Ads nova ou campanha nova em conta existente. Nomear: 'Wells | Pesquisa | Campo Largo | Aluguel Equipamentos Obra'. Configurar: Rede de Pesquisa APENAS, localização Campo Largo + 15km (raio), correspondência exata obrigatória, CPC manual por campanha.",
+      "SEMANA 1 — Lançar G1 (40% do orçamento = R$20/dia) com 6 keywords de tipo 1. CPC fixo em R$2.00. Meta: 10–12 cliques/dia, CTR >7%, gerar primeiros 3–5 leads em 5–7 dias. Documentar quality score, CTR real, CL real.",
+      "SEMANA 2 — Conforme performance de G1, ativar G2 (R$17/dia) com 4 keywords tipo 2. CPC fixo em R$1.50. Monitorar diferença de CTR e custo/lead vs. G1. Se CTR >8%, aumentar bid para R$2.00.",
+      "SEMANA 3 — Ativar G3 (R$13/dia) com 3 keywords tipo 2 (pessoa física). CPC fixo em R$1.20. Este grupo é teste — se CL >R$50, pausar; se CL <R$35, aumentar bid.",
+      "DIAS 21–30 — Análise completa: CTR por grupo, CL por grupo, conversão clique→lead, leads que viraram clientes. Ajustar CPCs com base em dados reais (não em estimativas). Se performance >benchmark (CTR 7%+, CL <R$40), aumentar orçamento para R$60–R$80/dia.",
+      "MÊS 2 — Testar 3–4 keywords novos por semana em cada grupo (sempre correspondência exata). Pausar keywords com CTR <4% após 50 cliques. Escalar bids de keywords com CL <R$30. Objetivo: atingir 50+ leads/mês mantendo CL <R$35.",
+      "CONTÍNUO — Testar variações de headlines e descriptions a cada 7 dias. Google permite até 15 headlines e 4 descriptions em RSA — usar limite máximo. Manter relatório semanal de performance por grupo e keyword. Nunca automatizar lances sem 2 semanas de dados."
+    ]
+  }
+}
